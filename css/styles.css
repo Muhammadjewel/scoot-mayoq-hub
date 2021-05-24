@@ -175,6 +175,7 @@ a {
 }
 
 .site-header__logo {
+  flex-shrink: 0;
   margin-right: 60px;
 }
 
@@ -214,4 +215,8 @@ a {
 
 .sitenav__link:active {
   opacity: 0.6;
+}
+
+.site-header__button {
+  margin-left: 32px;
 }
