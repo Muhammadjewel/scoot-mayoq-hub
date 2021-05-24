@@ -140,6 +140,7 @@ a {
   font-weight: bold;
   background-color: var(--yellow);
   color: #fff;
+  white-space: nowrap;
 }
 
 .button:hover {
